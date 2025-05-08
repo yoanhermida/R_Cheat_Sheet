@@ -1,3 +1,9 @@
+###################################
+# Author: Yoan G. Hermida         #
+# Purpose: Common R functions.    #
+# Date: 8 May 2025                #
+###################################
+
 # install a package
 install.packages("packageName")
 
